@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 ### 📕 Blog Posts
 - [How to Build Your First Whatsapp Bot with Node.js](https://iamrenaud.me/how-to-build-your-first-whatsapp-bot-with-nodejs-1)
-- [How to build and host a Node.js and React.js web application on IBM Cloud?](https://iamrenaud.me/how-to-build-and-host-a-nodejs-and-reactjs-web-application-on-ibm-cloud)
+- [How to build and host a Node.js and React.js web application on IBM Cloud](https://iamrenaud.me/how-to-build-and-host-a-nodejs-and-reactjs-web-application-on-ibm-cloud)
 <br/>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=iamrenaud.iamrenaud)
